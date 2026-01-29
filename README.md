@@ -139,7 +139,7 @@ The project can be deployed on any platform that supports Next.js:
 
 ## License
 
-MIT License - Feel free to use this template for your own portfolio!
+Feel free to use this template for your own portfolio!
 
 ## Contact
 
