@@ -59,7 +59,7 @@ export default function Hero() {
 
         {/* Typewriter Text */}
         <div className="text-xl md:text-2xl lg:text-3xl space-y-2 glow font-vt323">
-          <p>&gt; INITIALIZING SYSTEMweterter...</p>
+          <p>&gt; INITIALIZING SYSTEM...</p>
           <p>&gt; LOADING USER PROFILE...</p>
           <div className="mt-4">
             <p>
