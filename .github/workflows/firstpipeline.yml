@@ -40,5 +40,6 @@ jobs :
                 script : |
                     cd ~/portfolio/Afsar-Portfolio
                     git pull origin main
-                    docker compose up -d --build
+                    docker compose pull
+                    docker compose up -d
                     docker image prune -f
