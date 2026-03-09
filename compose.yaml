@@ -1,6 +1,6 @@
 services:
   portfolio:
-    build: .
+    image : afsar665/portfolio:latest
     restart: unless-stopped
     ports:
       - "3000:3000"
